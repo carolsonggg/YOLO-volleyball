@@ -1,0 +1,4 @@
+data/obj/vb10.jpg
+data/obj/vb20.jpg
+data/obj/vb30.jpg
+data/obj/vb40.jpg
